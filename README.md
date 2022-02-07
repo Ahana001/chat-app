@@ -1,4 +1,5 @@
-# chat-app
+# 📞 chat-app
+A simple real-time chat application implementation using Socket.io, Node 
 
 # Preview
 ![Screenshot (30)](https://user-images.githubusercontent.com/50478681/152730843-2adcf2d5-bf58-43b9-b50c-db1e103368e3.png)
@@ -33,4 +34,4 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 Open multiple browsers, add an username
 
- 💬 Start chatting ! 
+# 💬 Start chatting ! 
