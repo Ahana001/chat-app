@@ -29,7 +29,7 @@ Start the application
 
     $ node server.js
     
-Your app should now be running on (localhost:3000)[http://localhost:3000/].
+Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 Open multiple browsers, add an username
 
