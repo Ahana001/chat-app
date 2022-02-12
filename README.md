@@ -12,6 +12,24 @@ Node.js
 
 Socket.io
 
+# server-side 
+Serve the HTML, CSS and JavaScript client files to the users
+
+Start the Socket.io connection
+
+Receive events from clients (like a new chat message) and broadcast them to other clients
+
+# client-side
+Load socket.io client library
+
+Establish connection with the Socket.io running in our server
+
+Ask the user to enter his name so we can identify him in the chat
+
+Emit and receive events to/from Socket.io running in our server
+
+Add our own messages to the chat via JavaScript
+
 # Installation
 # Running Locally
 
